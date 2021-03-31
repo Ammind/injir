@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+@import "nullstyle.scss";
+
+.tab {
+  float: right;
+	width: 300px;
+	height: 300px;
+  border: 1px #fff;
+  padding: 0px 0px 0px 4px;
+}
+
+body{
+  min-width: 360px;
+  background: #0F0F0F local;
+  padding:100px 300px 0px 300px;
+   font-family:"PT Sans";
+   border-radius: 3px;
+  color: #fff;
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  font-family: inherit;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100px;
+  padding: 5px;
+  height: 30px;
+  background:#212121;
+}
+}
+
+.block {
+
+   padding:20px 30px;
+   border-radius: 5px;
+   background: #212121
+}
+
+.bel{
+  color: #fff;
+  font-size: 18px
+  color: #fff;
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  font-family: inherit;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100px;
+}
+
+.bell{
+  color: #fff;
+  font-size: 40px
+  border-radius: 3px;
+  color: #fff;
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  font-family: inherit;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100px;
+  padding: 5px;
+  height: 30px;
+  background:#212121;
+}
+}
+
+.coll{
+  color: #DADADA;
+  font-size: 16px
+}
+
+span#sum {
+  width: 30%;
+}
+
+input[type=number] {
+  border: 1px solid #8DC641;
+  border-radius: 3px;
+font-size:50;
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  font-family: inherit;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 20%;
+  padding: 5px;
+  height: 40px;
+  background:#212121;
+}
+
+.text{
+  font-family:"PT Sans";
+}
+
+.colortext{
+  color: #DADADA;
+  font-size: 16px;
+  font-family:"PT Sans";
+  color: #fff;
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  font-family: inherit;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100px;
+}
+
+button{
+  border: 1px solid #8DC641;
+  border-radius: 3px;
+  color: #fff;
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  font-family: inherit;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100px;
+  padding: 5px;
+  height: 30px;
+  background:#212121;
+}
